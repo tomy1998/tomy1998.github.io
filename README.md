@@ -1,4 +1,4 @@
-###  Hi 👋
+###  Hi , I am tomy👋
 - 🤖 Working on [Midea](https://www.midea.com/)  2022-
 - 📍 Suzhou, China
 - 💻 Focus on LiDAR-SLAM/AI
